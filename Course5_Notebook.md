@@ -9,7 +9,7 @@
 
 #### <font color='gold'>Organize data for analysis</font>
 
-> [!NOTA]
+> [!NOTE]
 > **Analysis:**  
 &emsp;The process used to make sense of the data collected 
 
